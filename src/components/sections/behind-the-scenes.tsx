@@ -38,7 +38,7 @@ export function BehindTheScenesSection() {
     <section className="bg-[#F5F5F5] px-6 py-24 sm:px-16" id="behind-the-scenes">
       <div className="mx-auto flex w-full max-w-7xl flex-col gap-16">
         <div className="text-center">
-          <h2 className="text-5xl font-black uppercase tracking-tight text-brand sm:text-6xl lg:text-7xl">
+          <h2 className="section-heading text-brand uppercase">
             Behind the Scene
           </h2>
           <p className="mt-3 text-base font-semibold uppercase tracking-wide text-brand">

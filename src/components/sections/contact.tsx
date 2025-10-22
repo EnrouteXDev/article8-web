@@ -6,7 +6,7 @@ export function ContactSection() {
       <div className="bg-gradient-to-b w-full from-[#D9D9D9]/10 to-white md:bg-gradient-to-r md:from-white md:from-55% md:to-black/10">
         <div className=" mx-auto flex min-h-[520px] w-full max-w-7xl flex-col justify-end gap-8 px-6 py-16 text-brand sm:px-16 md:justify-center">
           <div className="max-w-xl space-y-6">
-            <h2 className="text-4xl font-black uppercase leading-tight sm:text-5xl">
+            <h2 className="section-heading text-brand uppercase">
               Call To Action
               <br />
               For Collaboration

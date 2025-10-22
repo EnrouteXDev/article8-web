@@ -3,7 +3,7 @@ import { HeroSection } from "@/components/sections/hero";
 import { ArtifactsSection } from "@/components/sections/artifacts";
 import { BehindTheScenesSection } from "@/components/sections/behind-the-scenes";
 import { ContactSection } from "@/components/sections/contact";
-import { TeamSection } from "@/components/sections/team";
+import  TeamSection  from "@/components/sections/team";
 import Sponsors from "@/components/sections/Sponsors";
 
 
@@ -14,8 +14,8 @@ export default function Home() {
       <AboutSection />
       <ArtifactsSection />
       <BehindTheScenesSection />
-      <TeamSection />
-      <Sponsors />
+      {/* <TeamSection />
+      <Sponsors /> */}
       <ContactSection />
     </>
   );
