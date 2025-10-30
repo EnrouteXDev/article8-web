@@ -5,6 +5,7 @@ export const siteConfig = {
   navigation: [
     { label: "About", href: "#about" },
     { label: "Products", href: "#products" },
+    { label: "Gallery", href: "/gallery" },
     { label: "Services", href: "#services" },
     { label: "Contact", href: "#contact" },
   ],

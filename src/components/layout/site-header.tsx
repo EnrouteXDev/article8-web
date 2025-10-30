@@ -113,7 +113,7 @@ export function SiteHeader(): JSX.Element {
 
   return (
     <header className="sticky top-0 z-50 bg-[#F5F5F5]">
-      <div className="mx-auto w-full max-w-7xl px-4 py-4  md:py-6">
+      <div className="mx-auto w-full max-w-7xl px-4 py-4  md:py-3">
         <div className="flex items-center justify-between gap-4">
           <div className="flex items-center gap-16">
             <Link href="/" className="flex items-center gap-2">
